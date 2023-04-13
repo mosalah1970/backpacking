@@ -1,1 +1,1 @@
-added badges (#45)
+Add TorchScript Docs Integrations Page (#8501)
