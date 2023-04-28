@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+YOLOv8 INT8 TFLite Inference Example (#7317)
