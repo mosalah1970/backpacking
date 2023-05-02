@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Resize angle, count, and stage on keypoint number change (#7598)
