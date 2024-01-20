@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+docs: update view-results-in-terminal.md (#66)
