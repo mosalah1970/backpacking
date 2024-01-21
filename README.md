@@ -1,1 +1,1 @@
-update requirements.txt
+Add PaddlePaddle Docs Integrations Page (#8858)
