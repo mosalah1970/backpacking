@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update format.yml to pull_request_target (#7460)
