@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
