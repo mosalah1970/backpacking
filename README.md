@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add PR Summary step to Ultralytics Actions (#7675)
