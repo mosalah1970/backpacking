@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add HUB-SDK docs (#7775)
